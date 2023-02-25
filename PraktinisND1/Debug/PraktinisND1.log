@@ -1,0 +1,10 @@
+﻿  PraktinisND1.cpp
+C:\Users\User\Desktop\VGTU kursų darbai\Sisteminis programavimas\PraktinisND1\PraktinisND1\PraktinisND1.cpp(37,9): warning C4101: 'number': unreferenced local variable
+C:\Users\User\Desktop\VGTU kursų darbai\Sisteminis programavimas\PraktinisND1\PraktinisND1\PraktinisND1.cpp(128,14): warning C4018: '<': signed/unsigned mismatch
+C:\Users\User\Desktop\VGTU kursų darbai\Sisteminis programavimas\PraktinisND1\PraktinisND1\PraktinisND1.cpp(129,33): warning C4018: '<': signed/unsigned mismatch
+C:\Users\User\Desktop\VGTU kursų darbai\Sisteminis programavimas\PraktinisND1\PraktinisND1\PraktinisND1.cpp(130,33): warning C4018: '<': signed/unsigned mismatch
+C:\Users\User\Desktop\VGTU kursų darbai\Sisteminis programavimas\PraktinisND1\PraktinisND1\PraktinisND1.cpp(131,33): warning C4018: '<': signed/unsigned mismatch
+C:\Users\User\Desktop\VGTU kursų darbai\Sisteminis programavimas\PraktinisND1\PraktinisND1\PraktinisND1.cpp(135,32): warning C4018: '<=': signed/unsigned mismatch
+C:\Users\User\Desktop\VGTU kursų darbai\Sisteminis programavimas\PraktinisND1\PraktinisND1\PraktinisND1.cpp(136,32): warning C4018: '<=': signed/unsigned mismatch
+C:\Users\User\Desktop\VGTU kursų darbai\Sisteminis programavimas\PraktinisND1\PraktinisND1\PraktinisND1.cpp(168,15): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  PraktinisND1.vcxproj -> C:\Users\User\Desktop\VGTU kursų darbai\Sisteminis programavimas\PraktinisND1\Debug\PraktinisND1.exe
